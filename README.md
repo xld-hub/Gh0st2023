@@ -1,4 +1,4 @@
-[供应链投毒事件调查：一个免杀爱好者沦为“肉鸡”的全过程！](https://www.freebuf.com/articles/network/364647.html)
+# [供应链投毒事件调查：一个免杀爱好者沦为“肉鸡”的全过程！](https://www.freebuf.com/articles/network/364647.html)
 
 
 # Gh0st2023远控RAT、重写大灰狼远控RAT核心功能与组件模块、免杀主流防病毒软件
